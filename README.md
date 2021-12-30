@@ -6,5 +6,7 @@ Os Exercícios são feitos gradualmente.
 Atualmente tenho exercícios de:
 
 - Pandas
+- Pandas e estatística
 - Matplotlib
 - Numpy
+- Numpy e algebra linear 
